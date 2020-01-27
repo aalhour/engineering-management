@@ -39,6 +39,7 @@
   - [Mentoring](#mentoring)
   - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
+  - [Production and productivity](#production-and-productivity)
   - [Onboarding new team members](#onboarding-new-team-members)
   - [Personal productivity](#personal-productivity)
   - [Planning (reviews, OKR, etc.)](#planning-reviews-okr-etc)
@@ -55,6 +56,7 @@
   - [Team culture](#team-culture)
   - [Scaling an organization](#scaling-an-organization)
   - [Strategy](#strategy)
+  - [Team dynamics](#team-dynamics)
   - [Training](#training)
   - [Work ethics & work/life balance](#work-ethics--worklife-balance)
   - [Writing](#writing)
@@ -120,6 +122,10 @@ Here are some generic resources:
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html) from the cofounder of RethinkDB. Very high-level, a pretty good summary.
 * [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 * [The Rands Test](http://randsinrepose.com/archives/the-rands-test/), Rands in Repose. The equivalent of [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for management.
+* [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) : great discussion on Hacker News
+  * A great manager is at the service of their team.
+  * You don't really notice a great manager.
+  * Communicate context as high level and as complete as possible.
 
 ## Tools
 
@@ -159,6 +165,15 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
 * [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
+* [Square’s Growth Framework for Engineers and Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
+  * Have two tracks
+  * Becoming a manager is not a promotion
+  * Organized into two major sections: Scope & Impact and Behaviors
+  * No strict minimum requirements for years of experience at any given level
+  * Promotions are descriptive not prescriptive
+  * Promotion decisions are structured and rigorous
+* [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
+  * I’ve chosen to cultivate a path for myself that enables me to dig into complex technical and product problem spaces and help lead technical and strategic direction for my organization, as an engineer but not a manager.
 
 ## Code reviews
 
@@ -174,6 +189,12 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) (Wikipedia)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.7mqxmkpz9)
 * [Breaking Bad News](http://boz.com/articles/bad-news.html)
+* [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos)
+  * Narratives (not facts) are what move people
+  * The why always before the what
+  * Alignment is not one-way only
+  * Repeat, repeat, repeat
+  * Consider writing a personal weekly newsletter
 
 ## Conflict resolution
 
@@ -185,6 +206,10 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [How to simplify complex decisions by cleaving the facts](https://blog.asmartbear.com/complex-decisions.html), Jason Cohen.
 * [Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)](https://www.fs.blog/mental-models/)
 * [How to Make a Big Decision](https://www.nytimes.com/2018/09/01/opinion/sunday/how-make-big-decision.html), the NYT.
+* [Principles for Decision-Making in a Flat Organization](https://doist.com/blog/decision-making-flat-organization/)
+  * We risk more when we delay decisions in an attempt to reach total consensus.
+  * If there is a good enough solution X, don’t ask people what they think about it. Instead, ask everyone if they can live with it and if not, why.
+  * Consensus is the path, not the destination.
 
 ## Delegation
 
@@ -280,10 +305,24 @@ Feel free to also checkout the general diversity section.
 * [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
 * [Behavioral interviews](http://career.egr.uh.edu/sites/career.egr.uh.edu/files/files/behavioral-interview.pdf)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions): a list of list of interview questions.
+* [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/), First Round Review
+  * What do you want to do differently in your next role?
+  * Imagine yourself in three years. What do you hope will be different about you then compared to now?
+  * Among the people you've worked with, who do you admire and why?
+  * What are you really good at, but never want to do anymore?
+  * How did you prepare for this interview?
+  * What do you believe you can achieve with us personally or professionally that you can't anywhere else in the world?
+  * When was the last time you changed your mind about something important?
+  * What’s one misconception your coworkers have about you?
+  * What was the last thing you nerded out on?
+  * What are 10 ways to speed up Domino’s pizza delivery?
 
 ### Hiring: process
 
 * [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.hwjb9hizh): Medium open sourced their hiring process.
+* [How Firebase Interviewed Software Engineers](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
+  * We looked for candidates who were friendly, smart, and motivated
+  * We looked for generalist, pragmatic problem solvers
 
 ### Hiring: sourcing
 
@@ -303,6 +342,12 @@ Feel free to also checkout the general diversity section.
 * [General James 'Mad Dog' Mattis Email About Being 'Too Busy To Read' Is A Must-Read](http://www.businessinsider.com/viral-james-mattis-email-reading-marines-2013-5): "by reading, you learn through others’ experiences, generally a better way to do business, especially in our line of work where the consequences of incompetence are so final for young men."
 * [You can increase your intelligence: 5 ways to maximize your cognitive potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/): forgive the clickbait link, it's actually a good article.
 * [Startup Graveyard – History Shouldn't Have to Repeat Itself](http://startupgraveyard.io/)
+* [Design critiques at Figma](https://www.figma.com/blog/design-critiques-at-figma/?ref=uxdesignweekly)
+  * Pick the right format: standard, brainstorms, small groups, silent,
+    printed, etc.
+  * Use smaller rooms
+  * Buy a timer and keep diligent time
+  * Remember to critique OUTSIDE of weekly meetings
 
 Quotes:
 
@@ -332,6 +377,13 @@ Quote:
 
 * [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 * [Advice is Cheap — Context is Priceless](http://firstround.com/review/advice-is-cheap-context-is-priceless/)
+* [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/), Gergey Orosz
+  * Provide context and perspective
+  * Leverage your network to help the mentee
+  * Be supportive
+  * Avoid giving answers on a silver plate
+  * Tailor your approach for technical vs non-technical topics
+  * People learn best when they help themselves
 
 ## Mindset and attitude
 
@@ -349,12 +401,31 @@ Quotes:
 * "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
 * "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
+## Production and productivity
+
+* [The Toyota Way](https://en.wikipedia.org/wiki/The_Toyota_Way), Wikipedia
+  * Base your management decisions on a long-term philosophy, even at the expense of short-term financial goals.
+  * Create a continuous process flow to bring problems to the surface.
+  * Use "pull" systems to avoid overproduction.
+  * Level out the workload
+  * Build a culture of stopping to fix problems, to get quality right the first time
+  * Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
+  * Use visual control so no problems are hidden.
+  * Use only reliable, thoroughly tested technology that serves your people and processes.
+  * Grow leaders who thoroughly understand the work, live the philosophy, and teach it to others.
+  * Develop exceptional people and teams who follow your company's philosophy.
+  * Respect your extended network of partners and suppliers by challenging them and helping them improve.
+  * Go and see for yourself to thoroughly understand the situation
+  * Make decisions slowly by consensus, thoroughly considering all options; implement decisions rapidly
+  * Become a learning organization through relentless reflection (hansei) and continuous improvement (kaizen)
+
 ## Onboarding new team members
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) 🎞
 
 ## Personal productivity
 
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html), Paul Graham
 * [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
 * David Allen, [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) 📖: while it could be much shorter, this book is probably the best way to learn about the GTD methodology.
 * [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](http://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955): a great summary of GTD.
@@ -363,6 +434,12 @@ Quotes:
 * [43 Folders Series: Inbox Zero](http://www.43folders.com/izero): how to get and maintain your email inbox at a sane level.
 * [Busy to Death](https://barryoreilly.com/2017/05/31/busy-to-death/): a good story involving W. Edwards Deming.
 * [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html), Martin Fowler (about how you cannot measure developer productivity.
+* [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule'](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)
+  * Research shows that it takes as long as 30 minutes for makers to get into the flow
+  * Use maker-manager office hours
+  * Communication can happen at a quieter asynchronous frequency in the form of thoughtful, written discussions rather than soul-sucking meetings or erratic one-line-at-a-time chat messages
+  * Build a team knowledge base to minimize repetitive questions and allow
+    self-onboarding.
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
@@ -417,6 +494,14 @@ See my [engineering-management section about problem solving](https://github.com
 * [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/): includes a great poster about different project management methodologies.
 * [JIRA is an antipattern](https://techcrunch.com/2018/12/09/jira-is-an-antipattern/), Jon Evans.
 * [Agile Lite: Agile without all the burnout](https://github.com/davebs/AgileLite)
+* [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/)
+  * Deadlines set wrong expectations for what's good
+  * People are going to cut corners if you put them to tough deadlines.
+  * No one is going to experiment with new ways of doing things if you fetishize finishing under deadlines. We'd still be doing MVC in frontend apps if someone at Facebook didn't miss a deadline.
+  * Have deadlines, but fuzzy. How fuzzy should be decided by your goals. If missing a deadline could potentially lose you a million dollars, the fuzziness factor for that should be zero.
+
+> The ultimate inspiration is the deadline.
+> — Nolan Bushnell
 
 ## Release management
 
@@ -478,6 +563,12 @@ Shameless plug here, two presentations I contributed to:
 * [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
 * "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
 
+## Team dynamics
+
+* [Shields Down](https://randsinrepose.com/archives/shields-down/), Rands in Repose
+  * Boredom in its many forms is a major contributor to resignations, but the truth is the list of contributing factors to shield weakening is immense.
+  * Every moment as a leader is an opportunity to either strengthen or weaken shields.
+
 ## Training
 
 * [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
@@ -500,6 +591,7 @@ Shameless plug here, two presentations I contributed to:
 * [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
 * [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
 * [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
+* [Writing is Thinking: Learning to Write with Confidence](https://blog.stephsmith.io/learning-to-write-with-confidence/)
 
 # Movies
 
